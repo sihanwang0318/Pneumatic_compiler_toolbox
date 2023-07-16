@@ -9,7 +9,7 @@ The toolbox proposed in this work requires Matlab (R2018a or newer) and Comsol M
 3. Symbolic Math Toolbox
 
 The procedure to set up and run the proposed toolbox is as follows:
-1.Clone and install the repo
+1. Clone and install the repo
 2. Run "Comsol Multiphysics with Matlab". This starts a LiveLink(TM) for MATLAB(R) client
 3. In MATLAB, change the current folder to the path of the installed toolbox
 4. Run the "toolbox.mlapp" file to launch the toolbox
